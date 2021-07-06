@@ -12,5 +12,9 @@
                 <ID>B1003</ID>
                 <Title>Alias in wonderland</Title>
         </Book>
+	 <Book>
+                <ID>B1004</ID>
+                <Title>The life of Malala</Title>
+        </Book>
 
 `</Books>
