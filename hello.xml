@@ -1,0 +1,11 @@
+<?xml version='1.0' ?>
+<Books>
+	<Book>
+		<ID>B1001</ID>
+		<Title>Word of Empires</Title>
+	</Book>
+	<Book>
+		<ID>B1002</ID>
+		<Title>Wings of Fire</Title>
+	</Book>
+`</Books>
